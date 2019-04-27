@@ -8,7 +8,7 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Youngronaldfisher2.JPG/220px-Youngronaldfisher2.JPG "Ronald Fisher in 1913")
 
-The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.d
 
 ![alt text](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png "Iris species")
 
@@ -33,6 +33,10 @@ The Iris data set is widely used as a beginner's dataset for machine leaning pur
 ### Histograms:
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56849791-1e85c100-68f1-11e9-8615-3ec16c9305f3.jpg "Histograms")
+
+### Scatter plot matrix:
+
+![alt text](https://user-images.githubusercontent.com/47215445/56854379-78a47780-692d-11e9-8e1f-1099178f1a6f.jpg "Scatter plot matrix")
 
 ## How to download this repository
 
