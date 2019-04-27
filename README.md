@@ -8,19 +8,24 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
+![alt text](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png "Iris species")
+
 The dataset contains a set of 150 records under 5 attributes:
-1. sepal length in cm 
-2. sepal width in cm 
-3. petal length in cm 
-4. petal width in cm 
-5. species: 
--- Iris Setosa
--- Iris Versicolour
--- Iris Virginica
+1. sepal length in cm
+2. sepal width in cm
+3. petal length in cm
+4. petal width in cm
+5. species:
+=> Iris Setosa
+=> Iris Versicolour
+=> Iris Virginica
 
 The Iris data set is widely used as a beginner's dataset for machine leaning purpose. This dataset is free and is publicly available at the UCI Machine Learning Repository.
 
+## My investigations into the Iris data set
+
 Histograms:
+
 ![picture1](https://user-images.githubusercontent.com/47215445/56849791-1e85c100-68f1-11e9-8615-3ec16c9305f3.jpg)
 
 ## How to download this repository
@@ -41,5 +46,7 @@ Histograms:
 [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Iris) I used UC Irvine Machine Learning Repository to write a summary of Iris Data set.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) I I used Wikipedia to write a summary of Iris Data set.
+
+[Datacamp](https://www.datacamp.com/community/tutorials/machine-learning-in-r) I found the image of three Iris species on this website.
 
 [GitHub](https://gist.github.com/curran/a08a1080b88344b0c8a7) I used this GitHub link to create my iris.csv file.
