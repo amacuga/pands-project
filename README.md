@@ -13,9 +13,9 @@ The dataset contains a set of 150 records under 5 attributes:
 2. sepal width in cm 
 3. petal length in cm 
 4. petal width in cm 
-5. class: 
--- Iris Setosa 
--- Iris Versicolour 
+5. species: 
+-- Iris Setosa
+-- Iris Versicolour
 -- Iris Virginica
 
 The Iris data set is widely used as a beginner's dataset for machine leaning purpose. This dataset is free and is publicly available at the UCI Machine Learning Repository.
@@ -39,4 +39,4 @@ The Iris data set is widely used as a beginner's dataset for machine leaning pur
 
 [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) I I used Wikipedia to write a summary of Iris Data set.
 
-[GitHub](https://gist.github.com/curran/a08a1080b88344b0c8a7) I used this GitHub link to download the Iris data set.
+[GitHub](https://gist.github.com/curran/a08a1080b88344b0c8a7) I used this GitHub link to create my iris.csv file.
