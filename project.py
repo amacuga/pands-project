@@ -22,5 +22,7 @@ dataset = pd.read_csv(file, names=features)
 # - maximum of the values
 print(dataset.describe())
 
-
+# Create a histograms
+dataset.hist()
+plt.show()
 
