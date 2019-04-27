@@ -18,15 +18,19 @@ The dataset contains a set of 150 records under 5 attributes:
 3. petal length in cm
 4. petal width in cm
 5. species:
-=> Iris Setosa
-=> Iris Versicolour
-=> Iris Virginica
+   * Iris Setosa
+   * Iris Versicolour
+   * Iris Virginica
 
 The Iris data set is widely used as a beginner's dataset for machine leaning purpose. This dataset is free and is publicly available at the UCI Machine Learning Repository.
 
 ## My investigations into the Iris data set
 
-Histograms:
+### Describe the data set:
+
+![alt text](https://user-images.githubusercontent.com/47215445/56854108-66c0d580-6929-11e9-9fd5-f0bcbbf981e9.jpg "Describe the dataset")
+
+### Histograms:
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56849791-1e85c100-68f1-11e9-8615-3ec16c9305f3.jpg "Histograms")
 
