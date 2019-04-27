@@ -20,6 +20,9 @@ The dataset contains a set of 150 records under 5 attributes:
 
 The Iris data set is widely used as a beginner's dataset for machine leaning purpose. This dataset is free and is publicly available at the UCI Machine Learning Repository.
 
+Histograms:
+![picture1](https://user-images.githubusercontent.com/47215445/56849791-1e85c100-68f1-11e9-8615-3ec16c9305f3.jpg)
+
 ## How to download this repository
 
 1. Go to Github.
