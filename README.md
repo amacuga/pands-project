@@ -31,6 +31,8 @@ First, we are going to take a look at a summary of each attribute (feature). In 
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56854108-66c0d580-6929-11e9-9fd5-f0bcbbf981e9.jpg "Describe the dataset")
 
+The lowest number in our data set is 0.1 cm and the highest number is 7.9 cm.
+
 ### Histograms:
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56849791-1e85c100-68f1-11e9-8615-3ec16c9305f3.jpg "Histograms")
