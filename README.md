@@ -72,3 +72,6 @@ The lowest number in our data set is 0.1 cm and the highest number is 7.9 cm.
 
 [Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) I used Machine Learning Mastery in my solution
 
+[DataScience Made Simple](http://www.datasciencemadesimple.com/variance-function-python-pandas-dataframe-row-column-wise-variance/) I used DataScience Made Simple in my solution
+
+[Kaggle](https://www.kaggle.com/gopaltirupur/iris-data-analysis-and-machine-learning-python) I used Kaggle in my solution
