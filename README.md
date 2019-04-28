@@ -56,13 +56,12 @@ We also calculate the variance of the data set across columns. The petal_length 
 
 ### Histograms:
 
-The histogram suggest that sepal_length and sepal_width have a normal distribution.
+The histogram shows distribution of each attribute- report how many times each value appears. It suggest that sepal_length and sepal_width have a normal (Gaussian) distribution.
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56849791-1e85c100-68f1-11e9-8615-3ec16c9305f3.jpg "Histograms")
 
 ### Scatter plot matrix:
-
-The scatterplot suggests that petal_length and petal_width have positive correlation. 
+A scatter plot shows the relationship between two variables. The scatter plot suggests that petal_length and petal_width have positive correlation- they change in the same direction. 
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56854379-78a47780-692d-11e9-8e1f-1099178f1a6f.jpg "Scatter plot matrix")
 
