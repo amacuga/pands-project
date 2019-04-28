@@ -7,21 +7,43 @@ import pandas as pd
 from pandas.plotting import scatter_matrix
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Load dataset 
 file = "iris.csv"
 features = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'species']
 dataset = pd.read_csv(file, names=features)
 
-# Compute and show the following values for each feature (column):
+# Print first 10 lines of the dataset
+print(dataset.head(10))
+
+# Print the number of rows and columns
+print(dataset.shape)
+
+# For each column, calculate the following values:
 # - number of values
-# - mean of the values
+# - mean
 # - standard deviation
-# - minimum of the values
+# - minimum
 # - lower percentile(25th)
 # - median (50th percentile)
 # - upper percentile (75th)
-# - maximum of the values
-print(dataset.describe())
+# - maximum
+describe = dataset.describe()
+
+# Round the results to two decimal places
+describe = round(describe, 2)
+
+# Print the results
+print(describe)
+
+# Calculate the variance of each column
+df = pd.DataFrame(dataset)
+df = df.var()
+
+# Round the variance to two decimal places
+df = round(df, 2)
+
+# Print the variance
+print('Variance: ' + str(df))
 
 # Create a histograms
 dataset.hist()
