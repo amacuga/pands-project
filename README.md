@@ -46,11 +46,11 @@ For each attribute, we calculate:
 * upper percentile (75th)
 * maximum
 
-The lowest number in our data set is 0.1 cm (petal_width) and the highest number is 7.9 cm (sepal_lenght), that means, that all values of all attributes are contained within the range of 0.1 and 7.9.
+The results are rounded to two decimal places. The lowest number in our data set is 0.1 cm (petal_width) and the highest number is 7.9 cm (sepal_lenght), that means, that all values of all attributes are contained within the range of 0.1 and 7.9. 
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56868641-d9df5000-69ec-11e9-8b87-fd573ec62ebb.jpg "Statistical summary")
 
-We also calculate the variance of the data set across columns. The petal_length values are more spread apart from the average value, while the sepal_width values are clustered together.
+We also calculate the variance of the data set across columns, rounded to two decimal places. The petal_length values are more spread apart from the average value, while the sepal_width values are clustered together.
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56868642-d9df5000-69ec-11e9-9d1d-d95a5dd55d3d.jpg "Variance")
 
@@ -67,16 +67,15 @@ A scatter plot shows the relationship between two variables. The scatter plot su
 
 ## How to download this repository
 
-1. Go to Github.
+1. Go to [Github](https://github.com/amacuga/pands-project.git).
 2. Click the download button.
 
 ## How to run the code
 
-1. Make sure you have Python installed.
-2. I would recommend installing the free version of Anaconda, that includes all libraries required to run my script.
-3. After you download the repository to your computer, run cmder or similar tool.
-4. In cmder, navigate to the downloaded folder.
-5. Run "python project.py".
+1. Make sure you have Python installed- I would recommend installing the free version of Anaconda, that includes all libraries required to run my python script.
+2. Run cmder or similar tool.
+3. In cmder, navigate to the downloaded folder.
+4. Run "python project.py".
 
 ## What each file contains
 
