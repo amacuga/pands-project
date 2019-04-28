@@ -8,7 +8,7 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Youngronaldfisher2.JPG/220px-Youngronaldfisher2.JPG "Ronald Fisher in 1913")
 
-The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.d
+The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
 ![alt text](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png "Iris species")
 
@@ -27,6 +27,7 @@ The Iris data set is widely used as a beginner's dataset for machine leaning pur
 ## My investigations into the Iris data set
 
 ### Describe the data set:
+First, we are going to take a look at a summary of each attribute (feature). In the table below, you can see number of values, mean, standard deviation, minimum, lower percentile(25th), median (50th percentile), upper percentile (75th) and maximum for each attribute.
 
 ![alt text](https://user-images.githubusercontent.com/47215445/56854108-66c0d580-6929-11e9-9fd5-f0bcbbf981e9.jpg "Describe the dataset")
 
@@ -46,6 +47,10 @@ The Iris data set is widely used as a beginner's dataset for machine leaning pur
 ## How to run the code
 
 1. Make sure you have Python installed.
+2. I would recommend installing the free version of Anaconda, that includes all libraries required to run my script.
+3. After you download the repository to your computer, run cmder or similar tool.
+4. In cmder, navigate to the downloaded folder.
+5. Run "python project.py".
 
 ## What each file contains
 
@@ -62,3 +67,6 @@ The Iris data set is widely used as a beginner's dataset for machine leaning pur
 [Datacamp](https://www.datacamp.com/community/tutorials/machine-learning-in-r) Source of the image of three Iris species
 
 [GitHub](https://gist.github.com/curran/a08a1080b88344b0c8a7) Source of my iris.csv file.
+
+[Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) I used Machine Learning Mastery in my solution
+
