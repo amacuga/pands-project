@@ -1,13 +1,13 @@
 # Alexandra Macuga, 2019-04-28
 # This is my solution to the Project 2019 for the module Programming and Scripting at GMIT.
-# This progam contains my investigations into Iris data set.
+# This progam contains my investigations into Iris data set, you can find the references in README file.
 
 # Load modules
 import pandas as pd
 from pandas.plotting import scatter_matrix
 import matplotlib.pyplot as plt
 
-# Load dataset 
+# Load dataset
 file = "iris.csv"
 features = ['sepal_length', 'sepal_width', 'petal_length', 'petal_width', 'species']
 dataset = pd.read_csv(file, names=features)
@@ -43,9 +43,9 @@ df = df.var()
 df = round(df, 2)
 
 # Print the variance
-print('Variance: ' + str(df))
+print('Variance: ' '\n' + str(df))
 
-# Create a histograms
+# Create a histogram
 dataset.hist()
 plt.show()
 
