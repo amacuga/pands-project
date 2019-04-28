@@ -26,12 +26,19 @@ The Iris data set is widely used as a beginner's dataset for machine leaning pur
 
 ## My investigations into the Iris data set
 
-### Describe the data set:
+### Dimensions of data set:
+
+![alt text](https://user-images.githubusercontent.com/47215445/56868638-d946b980-69ec-11e9-926d-4bf1048dbb2d.jpg "First ten lines of data set")
+
+![alt text](https://user-images.githubusercontent.com/47215445/56868640-d9df5000-69ec-11e9-8e0f-41c8e3101d1a.jpg "Number or rows and columns")
+
 First, we are going to take a look at a summary of each attribute (feature). In the table below, you can see number of values, mean, standard deviation, minimum, lower percentile(25th), median (50th percentile), upper percentile (75th) and maximum for each attribute.
 
-![alt text](https://user-images.githubusercontent.com/47215445/56854108-66c0d580-6929-11e9-9fd5-f0bcbbf981e9.jpg "Describe the dataset")
+![alt text](https://user-images.githubusercontent.com/47215445/56868641-d9df5000-69ec-11e9-8b87-fd573ec62ebb.jpg "Statistical summary")
 
 The lowest number in our data set is 0.1 cm and the highest number is 7.9 cm.
+
+![alt text](https://user-images.githubusercontent.com/47215445/56868642-d9df5000-69ec-11e9-9d1d-d95a5dd55d3d.jpg "Variance")
 
 ### Histograms:
 
